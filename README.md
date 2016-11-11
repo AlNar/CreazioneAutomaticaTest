@@ -1,4 +1,4 @@
-# CreazioneAutomaticaTest
+# Creazione Automatica di Test
 In questo progetto dovrà essere creato un applicativo che permetta di creare automaticamente dei test.
 L’idea è quella di dare la possibilità ad un docente di inserire determinate domande o problemi, compresi di tipo di materia e livello di difficoltà, ed in seguito selezionare indipendentemente o in maniera casuale un numero di domande da inserire in un test che deve essere autogenerato.
 
